@@ -17,10 +17,13 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         MapFragment mapFragment = (MapFragment) getFragmentManager().findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
 
-        //2 commit
-        //3 commit
-        //4 commit
-        //5 commit
+        //2
+        //3
+        //4
+        //5
+        //6
+        //7
+        //8
     }
 
     @Override
