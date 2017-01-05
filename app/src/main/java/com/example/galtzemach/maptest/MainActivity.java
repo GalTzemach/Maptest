@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         mapFragment.getMapAsync(this);
 
         String strG = "gal";
+        String strM = "gal";
+
       
     }
 
