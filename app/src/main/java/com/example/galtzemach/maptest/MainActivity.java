@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         mapFragment.getMapAsync(this);
 
         //2 commit
+        //3 commit
     }
 
     @Override
