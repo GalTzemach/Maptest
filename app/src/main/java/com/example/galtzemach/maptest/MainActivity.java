@@ -23,6 +23,9 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         //5
         //6
         //7
+        //8
+        //9
+        //10
     }
 
     @Override
