@@ -20,7 +20,6 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         int a = 11;
         int b = 22;
         int c = 33;
-        int d = 44;
 
       
     }
