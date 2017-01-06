@@ -17,6 +17,11 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         MapFragment mapFragment = (MapFragment) getFragmentManager().findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
 
+        int a = 11;
+        int b = 22;
+        int c = 33;
+        int d = 44;
+
       
     }
 
