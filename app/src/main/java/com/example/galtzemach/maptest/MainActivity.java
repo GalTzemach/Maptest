@@ -17,12 +17,15 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         MapFragment mapFragment = (MapFragment) getFragmentManager().findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
 
-
+        //gal
+        //gal 2
+        int x = 1;
 
     }
 
     @Override
     public void onMapReady(GoogleMap googleMap) {
         //googleMap.setMapType(GoogleMap.MAP_TYPE_HYBRID);
+        //gal
     }
 }
