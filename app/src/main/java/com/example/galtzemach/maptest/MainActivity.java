@@ -18,8 +18,11 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         mapFragment.getMapAsync(this);
 
         String str1 = "m";
+
+        String str1 = "tal";
+        // tal 1
         String str2 = "gal";
-        String str1 = "t";
+
         //gal 1
     }
 
@@ -27,5 +30,6 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
     public void onMapReady(GoogleMap googleMap) {
         //googleMap.setMapType(GoogleMap.MAP_TYPE_HYBRID);
         //gal 2
+        // tal 2
     }
 }
