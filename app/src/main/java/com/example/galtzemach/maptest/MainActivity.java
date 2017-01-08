@@ -19,7 +19,8 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
 
         int x = 11;
         //tal
-      
+        //gal
+
     }
 
     @Override
