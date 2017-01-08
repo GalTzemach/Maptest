@@ -19,11 +19,13 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
 
         String str1 = "m";
         String str2 = "g";
-        String str1 = "t";
+        String str1 = "tal";
+        // tal 1
     }
 
     @Override
     public void onMapReady(GoogleMap googleMap) {
         //googleMap.setMapType(GoogleMap.MAP_TYPE_HYBRID);
+        // tal 2
     }
 }
